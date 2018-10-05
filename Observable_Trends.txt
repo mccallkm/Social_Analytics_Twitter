@@ -1,0 +1,4 @@
+What is sentiment analysis?
+Sentiment Analysis is the process of determining whether a written text is positive, negative or neutral. 
+
+Reviewing the Twitter feeds from multiple media stations show BBC and CNN as having negative polarity. Apparently these tweets are more negative in nature than tweets about Fox, NY Times or CBC.
